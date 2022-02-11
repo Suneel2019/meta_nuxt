@@ -1,0 +1,9 @@
+.select_all_checkbox {
+  margin-top: 0 !important;
+}
+
+.select_all_checkbox .v-label {
+  text-transform: uppercase !important;
+  color: var(--v-gray-base) !important;
+  font-size: 0.9rem !important;
+}

@@ -1,0 +1,103 @@
+/*Added By Sunil Upadhyaya*/
+
+.sticky_div {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 110px;
+}
+
+.slider_hover {
+  border: 1px solid grey !important;
+  cursor: pointer !important;
+}
+
+.product_image_zoomer .v-image__image--cover {
+  background-size: contain !important;
+}
+
+.product_image_zoomer {
+  overflow: hidden;
+}
+
+.product_image .v-image__image--cover {
+  background-size: contain;
+}
+
+.product_image {
+  background: white;
+  height: auto;
+  transition: transform 0.5s, filter 0.5s ease-out;
+}
+
+.product_image:hover {
+  cursor: pointer;
+}
+
+.range_slider_design {
+  margin-top: 40px !important;
+}
+
+.range_slider_design input {
+  font-size: 0.8rem !important;
+  font-weight: 500 !important;
+}
+
+.range_slider .v-slider--horizontal {
+  min-width: 195px !important;
+  margin-left: -70px !important;
+}
+
+.range_slider_design .v-input__control {
+  border-radius: 0 !important;
+}
+
+.range_slider_design .v-input__slot {
+  border: 1px solid #e5e5e5 !important;
+  box-shadow: none !important;
+  min-height: 30px !important;
+  padding: 0 0 0 4px !important;
+}
+
+.range_slider .v-slider__thumb {
+  height: 13px !important;
+  border-radius: 0% !important;
+}
+
+.range_slider {
+  max-height: 50px !important;
+}
+
+.range_slider .v-slider__track-container {
+  height: 5px !important;
+}
+
+.range_slider .v-input__prepend-outer {
+  margin-top: 40px !important;
+}
+
+.range_slider .v-input__append-outer {
+  margin-top: 40px !important;
+}
+
+.checkbox_design .v-label {
+  font-size: 0.8rem !important;
+  color: black !important;
+}
+
+.checkbox_design {
+  margin-top: 4px !important;
+}
+
+.checkbox_design .v-icon.v-icon {
+  font-size: 20px !important;
+}
+
+.pointer-on-hover {
+
+  cursor: pointer;
+}
+
+.category-dropdown-menu {
+  max-height: 35px !important;
+
+}

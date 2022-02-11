@@ -1,0 +1,75 @@
+.select_all_checkbox {
+  margin-top: 0 !important;
+}
+
+.select_all_checkbox .v-label {
+  text-transform: uppercase !important;
+  color: var(--v-gray-base) !important;
+  font-size: 0.9rem !important;
+}
+
+.white_background {
+  background-color: white !important;
+}
+
+.red_background {
+  background-color: #ffd6be !important;
+}
+
+.quantity input {
+  color: var(--v-gray-base) !important;
+  font-size: 0.9rem !important;
+  font-weight: bold;
+}
+
+.quantity .v-label {
+  color: var(--v-gray-base) !important;
+  font-size: 0.9rem !important;
+  font-weight: bold;
+}
+
+.quantity .v-input__slot {
+  box-shadow: none !important;
+  background-color: #fcfcfc !important;
+}
+
+.quantity .v-input__control {
+  min-height: 20px !important;
+}
+
+.quantity .v-text-field__details {
+  margin-bottom: 0;
+}
+
+.disable_quantity input {
+  color: var(--v-gray-base) !important;
+  font-size: 0.75rem !important;
+  font-weight: 500;
+  margin-left: 8px !important;
+}
+
+.disable_quantity .v-label {
+  color: var(--v-gray-base) !important;
+  font-size: 0.75rem !important;
+  font-weight: 500;
+}
+
+.disable_quantity .v-input__slot {
+  box-shadow: none !important;
+  background-color: #ffd6be !important;
+  padding: 0 !important;
+  min-height: 20px !important;
+}
+
+.disable_quantity .v-input__control {
+  min-height: 20px !important;
+}
+
+.disable_quantity .v-text-field__details {
+  margin-bottom: 0;
+}
+
+.button_design {
+  height: 20px !important;
+  min-width: 20px !important;
+}

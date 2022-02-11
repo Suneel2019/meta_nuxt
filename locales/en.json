@@ -1,0 +1,19 @@
+{
+  "become_a_partner": "Become A Partner",
+  "login": "Login",
+  "store": "Store",
+  "active_balance": "Active Balance",
+  "go_to_dashboard": "Dashboard",
+  "logout": "Log Out",
+  "rupees": "Rs.",
+  "password": "Password",
+  "forget_password": "Forget Password ?",
+  "forget_password_message": "We will send you a link to reset your password.",
+  "enter_email_address": "Enter Email Address",
+  "send_reset_link": "Send Reset Link",
+  "back_to_login": "Back To Login",
+  "change_password_for": "Change Password For",
+  "enter_new_password": "Enter New Password",
+  "confirm_new_password": "Confirm New Password",
+  "change_password": "Change Password"
+}

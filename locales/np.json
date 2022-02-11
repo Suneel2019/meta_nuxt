@@ -1,0 +1,19 @@
+{
+  "become_a_partner": "साझेदार बन्नुहोस्",
+  "login": "लग - इन",
+  "store": "स्टोर",
+  "active_balance": "सक्रिय रकम",
+  "go_to_dashboard": "ड्यासबोर्डमा जानुहोस्",
+  "logout": "साइन आउट गर्नुहोस्",
+  "rupees": "रु.",
+  "password": "पासवर्ड",
+  "forget_password": "पासवर्ड बिर्सने?",
+  "forget_password_message": "हामी तपाईंलाई तपाईंको पासवर्ड रिसेट गर्न लिङ्क पठाउनेछौं।",
+  "enter_email_address": "इमेल ठेगाना टाइप गर्नुहोस्",
+  "send_reset_link": "रिसेट लिङ्क पठाउनुहोस्",
+  "back_to_login": "लग इन गर्न फिर्ता जानुहोस्",
+  "change_password_for": "को लागी पासवर्ड परिवर्तन गर्नुहोस्",
+  "enter_new_password": "नयाँ पासवर्ड टाइप गर्नुहोस्",
+  "confirm_new_password": "नयाँ पासवर्ड पुष्टि गर्नुहोस्",
+  "change_password": "पासवर्ड परिवर्तन गर्नुहोस्"
+}
