@@ -124,6 +124,10 @@ export default {
 
         this.loading = false;
 
+        this.$store.commit('error/SET_422_ERROR', false);
+
+        this.$store.commit('error/SET_422_ERROR_MESSAGE', null);
+
         this.$store.commit("login/SET_ISLOGINED", true);
         this.$store.commit("login/SET_STORE_CRED", response["store_details"]);
 
